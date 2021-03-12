@@ -10,3 +10,15 @@
    * sourced by PowerNad Module 
 3. Google API 
 
+## Process
+1. Selenium extracts associated search terms for keyword_list 
+
+2. Using Naver Trend API, trend index data is extracted.
+
+3. Using Powernad module, recently month data is extraced.
+
+4. Get daily data.
+
+5. Upload to the Google Spread Sheet using Google API
+
+6. It is automated through schedule module.
