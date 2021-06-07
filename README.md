@@ -1,6 +1,7 @@
 # Naver_DailyKeyword_Crawling
 
-
+## * Update : 2 Depth keyword lists -> We updated the list of related keyword and similar keyword to the next related keyword which is from the first related keyword. 
+## * Review and Inspection : We made the process that could find the error keyword.
 ## Goal
 ### The purpose of this analysis is to identify the characteristics of changing users by identifying the daily search volume of Naver keywords.
 
